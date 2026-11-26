@@ -1,5 +1,9 @@
 # Your Agent in One Emoji
 
+[![make.fun · u-boge-your-agent-in-one-emoji-db30c1e4](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4?utm_source=github&utm_medium=readme&utm_campaign=u-boge-your-agent-in-one-emoji-db30c1e4)
+[![rank](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4/dikadavidsatu/u-boge-your-agent-in-one-emoji-db30c1e4/rank.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boge-your-agent-in-one-emoji-db30c1e4)
+[![reward](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4/dikadavidsatu/u-boge-your-agent-in-one-emoji-db30c1e4/reward.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4?utm_source=github&utm_medium=readme&utm_campaign=u-boge-your-agent-in-one-emoji-db30c1e4)
+
 Entry for the make.fun bounty **"Your Agent in One Emoji"**:
 https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4
 
